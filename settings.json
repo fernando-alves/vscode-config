@@ -5,5 +5,6 @@
     "editor.wordWrap": "on",
     "editor.minimap.enabled": false,
     "workbench.statusBar.feedback.visible": false,
-    "editor.links": false
+    "editor.links": false,
+    "workbench.startupEditor": "none"
 }
